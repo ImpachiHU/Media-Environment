@@ -1,8 +1,8 @@
 # Game Info
-The game is simply a guessing game that may or may not be rigged to make the user lose.
+The game is simply a clicker that tracks clicks for the user to relax.
 ## Game control
-It'll either be a couple of buttons with options to choose from or a text box that'll allow you to type in your answer.
+It's a screen with a couple of buttons with options to choose from with a tracker on the bottom left of the screen.
 ## Gameplay
-The main gameplay is sort of a reverse-Akinator: to put it simply, guess what the game is thinking and pray that you're correct
+The main gameplay is sort of a reverse-Akinator: to put it simply, guess what the game is thinking and pray that you're correct (the game was rigged from the star >:3 )
 ## Win/Lose
-If you guess right, you win. If not, try again until you can guess right.
+There's no way to win since it's mainly a clicker-style game, but if you have some sort of ADD or ADHD it is pretty relaxing (at least for me it is).
